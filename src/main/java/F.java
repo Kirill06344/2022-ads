@@ -34,7 +34,7 @@ public final class F {
     Dequeue() {
       head = null;
       tail = null;
-      size = 0 ;
+      size = 0;
     }
 
     void pushFront(int n) {
